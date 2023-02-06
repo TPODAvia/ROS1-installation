@@ -1,7 +1,7 @@
 # cheasheet for git
-# git config --global user.name "Your Name"
-# git config --global user.email "youremail@yourdomain.com"
-#2 dfbsfsfbfk,gyfh
+# git config --global usfgbfgber.name "Your Name"
+# git config --global udfvsdfvser.email "youremail@yourdomain.com"
+#2 dfbsfsfbfk,dfvsdfvgyfh
 
 sudo sh -c 'echo "deb http://packages.ros.org/ros/ubuntu $(lsb_release -sc) main" > /etc/apt/sources.list.d/ros-latest.list'
 
