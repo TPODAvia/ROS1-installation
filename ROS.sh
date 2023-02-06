@@ -1,6 +1,6 @@
 # cheasheet for git
-# git config --global user.name "Your Name"
-# git config --global user.email "youremail@yourdomain.com"
+# git cdfvonfig --global user.name "Your Name"
+# git configfvsdfv --global user.email "youremail@yourdomain.com"
 #2 dfbsfsfbfk,gyfh
 
 # Note: don't push to the main branche dirrectry
