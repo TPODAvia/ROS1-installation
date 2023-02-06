@@ -1,10 +1,15 @@
+# cheasheet for git
+# git config --global user.name "Your Name"
+# git config --global user.email "youremail@yourdomain.com"
+
 # Note: don't push to the main branche dirrectry
 # Use 
 #   git checkout -b "new-branch" 
 # then 
 #   git checkout "main"
 #   git merge "new-branch"
-
+#   git add .
+#   git commit
 sudo sh -c 'echo "deb http://packages.ros.org/ros/ubuntu $(lsb_release -sc) main" > /etc/apt/sources.list.d/ros-latest.list'
 
 sudo apt install curl -y # if you haven't already installed curl
