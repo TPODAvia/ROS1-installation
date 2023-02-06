@@ -1,16 +1,16 @@
 # cheasheet for git
-# git config --global user.name "Your Name"
-# git config --global user.email "youremail@yourdomain.com"
+#       git config --global user.name "Your Name"
+#       git config --global user.email "youremail@yourdomain.com"
 
 # Note: don't push to the main branche dirrectry
 # Use 
-#   git checkout -b "new-branch" 
+#       git checkout -b "new-branch" 
 # then 
-#   git checkout "main"
-#   git merge "new-branch"
+#       git checkout "main"
+#       git merge "new-branch"
 # if any conflict appeared
-#   git add .
-#   git commit
+#       git add .
+#       git commit
 
 # press
 #        ^x
@@ -18,6 +18,9 @@
 #        "y"
 # then
 #        enter
+
+# to delete branch
+#   git branch -d new-branch
 
 sudo sh -c 'echo "deb http://packages.ros.org/ros/ubuntu $(lsb_release -sc) main" > /etc/apt/sources.list.d/ros-latest.list'
 
